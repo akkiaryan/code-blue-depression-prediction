@@ -1,3 +1,24 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Classical%20ML-F7931E?logo=scikitlearn&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=black)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-Transformer%20Model-8A2BE2)
+
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Classical-blue)
+![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-Classical-blue)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-Ensemble-green)
+![SVM](https://img.shields.io/badge/SVM-Linear%20Classifier-green)
+![CNN](https://img.shields.io/badge/CNN-Neural%20Model-red)
+![BiLSTM](https://img.shields.io/badge/BiLSTM-Recurrent%20Model-red)
+
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-6A0DAD)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Plots-3F4F75)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Research%20UI-FF4B4B?logo=streamlit&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Tunnel-F38020?logo=cloudflare&logoColor=white)
 # 🧭 Code Blue: Predictive Modeling of Depression from Linguistic Signals
 
 **Code Blue** is a research-driven machine learning system designed to analyze linguistic and behavioral patterns associated with depression. The project benchmarks **classical, neural, and transformer-based models** to infer **diagnostic polarity** (positive, negative, recovery-oriented) and **underlying psychological root causes**, with a strong emphasis on **interpretability, efficiency, and real-time applicability**.
